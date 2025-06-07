@@ -13,3 +13,6 @@ function toggleDarkMode() {
   function toggleDivDarkMode() {
     document.div.classList.toggle("dark-mode");
   }
+
+
+  
